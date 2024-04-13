@@ -173,3 +173,7 @@ ol.huruf{
 .navbar .xbrand > img {
     max-height: 18px;
 }
+
+.list-order-item{
+    line-break: anywhere;
+}
